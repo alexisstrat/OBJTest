@@ -1,0 +1,13 @@
+# Blender MTL File: 'obj.blend'
+# Material Count: 1
+
+newmtl Yo
+Ns 17.678199
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.006109 0.012919
+Ks 0.200758 0.200758 0.200758
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\a.stratakis\\Documents\\OBJTest\\TexturesCom_ConcreteSidewalk_2x2_1K_albedo.jpg
