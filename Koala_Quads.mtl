@@ -12,7 +12,7 @@ newmtl Koala
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka C:\Users\Starls\Desktop\PROJECT KOALA\Koala_D.png
-	map_Kd C:\Users\Starls\Desktop\PROJECT KOALA\Koala_D.png
-	map_bump C:\Users\Starls\Desktop\PROJECT KOALA\Koala_N.png
-	bump C:\Users\Starls\Desktop\PROJECT KOALA\Koala_N.png
+	map_Ka https://raw.githubusercontent.com/alexisstrat/OBJTest/master/Koala_D.png
+	map_Kd https://raw.githubusercontent.com/alexisstrat/OBJTest/master/Koala_D.png
+	map_bump https://raw.githubusercontent.com/alexisstrat/OBJTest/master/Koala_N.png
+	bump https://raw.githubusercontent.com/alexisstrat/OBJTest/master/Koala_N.png
